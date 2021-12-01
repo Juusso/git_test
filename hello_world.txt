@@ -1,0 +1,2 @@
+Odin 1st repository txt editing for git add and status check 
+
